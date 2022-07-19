@@ -6,7 +6,7 @@ from mysql.connector import errorcode
 """ database config object """
 config = {
     "user": "pysports_user",
-    "password": "MySQL8IsGreat!",
+    "password": "CrossFit!",
     "host": "127.0.0.1",
     "database": "pysports",
     "raise_on_warnings": True
